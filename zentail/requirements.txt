@@ -1,6 +1,6 @@
 # Web Framework
 Flask
-
+gunicorn
 # Database Connection (Covers pymongo, MongoClient, ReturnDocument, ObjectId)
 pymongo
 dnspython
@@ -13,4 +13,5 @@ werkzeug
 flask-mail
 
 # Environment management
+
 python-dotenv
