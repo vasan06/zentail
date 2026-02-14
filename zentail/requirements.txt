@@ -1,0 +1,16 @@
+# Web Framework
+Flask
+
+# Database Connection (Covers pymongo, MongoClient, ReturnDocument, ObjectId)
+pymongo
+dnspython
+
+# Security (Covers Bcrypt)
+flask-bcrypt
+werkzeug
+
+# Automation (Covers Mail and Message)
+flask-mail
+
+# Environment management
+python-dotenv
